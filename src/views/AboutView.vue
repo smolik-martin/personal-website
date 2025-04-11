@@ -31,7 +31,7 @@
               </p>
             </div>
             <div class="relative">
-              <img src="/Users/martinsmolik/CascadeProjects/personal-website/images/DSCF8149.jpg" alt="Wedding photographer at work" class="w-full h-auto" />
+              <img src="/images/DSCF8149.jpg" alt="Wedding photographer at work" class="w-full h-auto" />
               <div class="absolute -bottom-6 -left-6 w-48 h-48 bg-gray-100 rounded-lg -z-10"></div>
               <a href="https://www.instagram.com/martin_smolik/" target="_blank" class="absolute top-4 right-4 bg-white bg-opacity-20 hover:bg-opacity-40 p-2 rounded-full transition-all duration-300 backdrop-blur-sm">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-white" fill="currentColor" viewBox="0 0 24 24">
