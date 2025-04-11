@@ -1,0 +1,36 @@
+{
+  "couple": "Lucie & Tomáš",
+  "date": "5. srpna 2023",
+  "location": "Zámecký park Libochovice",
+  "slug": "lucie-tomas",
+  "story": "Lucie a Tomáš prožili den plný romantiky a něhy v překrásném prostředí zámeckého parku Libochovice. Jejich svatba byla jako poetická báseň, kde každý okamžik byl naplněn jemnými detaily a hlubokými emocemi. Od něžných pohledů až po slavnostní tance, jejich příběh byl oslavou opravdové lásky.",
+  "vendors": [
+    {
+      "type": "Svatební místo",
+      "name": "Zámecký park Libochovice",
+      "description": "Romantický zámecký park, který poskytl nádherné prostředí pro svatební obřad a oslavu."
+    },
+    {
+      "type": "Fotograf",
+      "name": "Martin Smolik Photography",
+      "description": "Citlivé zachycení všech romantických a emočních momentů svatebního dne."
+    },
+    {
+      "type": "Catering",
+      "name": "Zámecká restaurace",
+      "description": "Exkluzivní gastronomický zážitek v duchu zámecké atmosféry."
+    },
+    {
+      "type": "Květiny",
+      "name": "Zámecké květinářství",
+      "description": "Elegantní a jemné květinové dekorace, které dokonale ladily s prostředím zámku."
+    }
+  ],
+  "highlights": [
+    "Romantický obřad v zámeckém parku",
+    "Něžné momenty novomanželů",
+    "Rodinné oslavy",
+    "Slavnostní hostina",
+    "Taneční večer plný lásky"
+  ]
+}

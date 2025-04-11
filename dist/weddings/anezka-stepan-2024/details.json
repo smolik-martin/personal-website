@@ -1,0 +1,36 @@
+{
+  "couple": "Eliška & Jan",
+  "date": "10. června 2023",
+  "location": "Zámek Sychrov",
+  "slug": "eliska-jan",
+  "story": "Eliška a Jan oslavili svou lásku v pohádkovém prostředí zámku Sychrov. Jejich svatba byla jako sen, kde každý detail vyprávěl příběh jejich jedinečného spojení. Od okouzlujícího prvního pohledu až po magický taneční večer, jejich den byl naplněn láskou, radostí a nezapomenutelnými momenty.",
+  "vendors": [
+    {
+      "type": "Svatební místo",
+      "name": "Zámek Sychrov",
+      "description": "Nádherný zámek obklopený rozsáhlými zahradami, který poskytl dokonalé místo pro svatební oslavu."
+    },
+    {
+      "type": "Fotograf",
+      "name": "Martin Smolik Photography",
+      "description": "Umělecké zachycení všech magických a emočních momentů svatebního dne."
+    },
+    {
+      "type": "Catering",
+      "name": "Zámecká kuchyně",
+      "description": "Exkluzivní gastronomický zážitek v duchu zámecké tradice."
+    },
+    {
+      "type": "Květiny",
+      "name": "Zámecké květinářství",
+      "description": "Luxusní a okouzlující květinové dekorace, které dotvořily atmosféru zámecké svatby."
+    }
+  ],
+  "highlights": [
+    "Pohádkový zámecký obřad",
+    "Romantické portréty v zahradách",
+    "Emotivní rodinné momenty",
+    "Slavnostní hostina",
+    "Magický taneční večer"
+  ]
+}

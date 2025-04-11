@@ -1,0 +1,36 @@
+{
+  "couple": "Marcela & David",
+  "date": "17. srpna 2024",
+  "location": "Pohoda Nárameč",
+  "slug": "marcela-david",
+  "story": "Marcela a David prožili magický den plný lásky a emocí. Jejich svatba byla jako sen, kde každý okamžik byl naplněn něžností a vzájemným porozuměním. Od ranních příprav až po pozdní večerní tance, jejich příběh vyprávěl o hluboké lásce, která překonává všechny překážky.",
+  "vendors": [
+    {
+      "type": "Svatební místo",
+      "name": "Pohoda Nárameč",
+      "description": "Malebný prostor obklopený přírodou, který poskytl dokonalé zázemí pro jejich svatební den."
+    },
+    {
+      "type": "Fotograf",
+      "name": "Martin Smolik Photography",
+      "description": "Profesionální zachycení všech emočních momentů a jedinečných detailů svatebního dne."
+    },
+    {
+      "type": "Catering",
+      "name": "Gurmán Catering",
+      "description": "Exkluzivní gastronomický zážitek, který dotvořil atmosféru svatby."
+    },
+    {
+      "type": "Květiny",
+      "name": "Flower Design Studio",
+      "description": "Nádherné květinové dekorace, které dokonale ladily s celkovým konceptem svatby."
+    }
+  ],
+  "highlights": [
+    "Romantický první pohled",
+    "Dojemné sliby",
+    "Nádherné portréty v přírodě",
+    "Večerní oslava plná tance",
+    "Nezapomenutelné rodinné momenty"
+  ]
+}

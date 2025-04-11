@@ -56,11 +56,6 @@ const routes = [
     component: PricingView
   },
   {
-    path: '/blog',
-    name: 'blog',
-    component: () => import('../views/BlogView.vue')
-  },
-  {
     path: '/privacy',
     name: 'privacy',
     component: () => import('../views/PrivacyView.vue')

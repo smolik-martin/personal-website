@@ -1,0 +1,36 @@
+{
+  "couple": "Kristýna & Marek",
+  "date": "22. září 2023",
+  "location": "Statek Kaplíř",
+  "slug": "kristyna-marek",
+  "story": "Kristýna a Marek oslavili svou lásku ve stylovém rustikálním prostředí statku Kaplíř. Jejich svatba byla jako poetická cesta dvou spřízněných duší, kde každý detail vyprávěl jejich jedinečný příběh. Od vintage dekorací až po emotivní taneční chvíle, jejich den byl plný lásky a radosti.",
+  "vendors": [
+    {
+      "type": "Svatební místo",
+      "name": "Statek Kaplíř",
+      "description": "Malebný statek s nádherným vintage charakterem, který dokonale odrážel atmosféru svatby."
+    },
+    {
+      "type": "Fotograf",
+      "name": "Martin Smolik Photography",
+      "description": "Umělecké zachycení všech emočních momentů a jedinečných detailů svatebního dne."
+    },
+    {
+      "type": "Catering",
+      "name": "Venkovská kuchyně",
+      "description": "Tradiční jídla připravená s láskou, která dokonale ladila s rustikálním stylem svatby."
+    },
+    {
+      "type": "Květiny",
+      "name": "Venkovské květiny",
+      "description": "Něžné a romantické květinové dekorace v pastelových tónech."
+    }
+  ],
+  "highlights": [
+    "Romantický první pohled",
+    "Vintage svatební dekorace",
+    "Emotivní obřad",
+    "Rodinné oslavy",
+    "Taneční večer plný energie"
+  ]
+}
