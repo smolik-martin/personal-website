@@ -2,7 +2,7 @@
   <div class="contact font-serif">
     <!-- Hero Section -->
     <section class="relative py-16 bg-gray-900 text-white">
-      <div class="absolute inset-0 bg-cover bg-center opacity-30" style="background-image: url('/Users/martinsmolik/CascadeProjects/personal-website/images/MSM-521.jpg');"></div>
+      <div class="absolute inset-0 bg-cover bg-center opacity-30" style="background-image: url('/images/MSM-521.jpg');"></div>
       <div class="container mx-auto px-4 relative z-10">
         <div class="max-w-3xl mx-auto text-center">
           <h1 class="text-3xl md:text-4xl font-light mb-4">Neváhejte mě kontaktovat</h1>
