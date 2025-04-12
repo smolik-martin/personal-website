@@ -21,7 +21,7 @@
             <div class="md:w-1/2 flex justify-center">
               <div class="relative w-64 h-64">
                 <img 
-                  src="/Users/martinsmolik/CascadeProjects/personal-website/images/_MS_8179_crop.jpeg" 
+                  src="/images/_MS_8179_crop.jpeg" 
                   alt="Martin Smolík - Fotograf"
                   class="w-full h-full object-cover shadow-lg"
                 />
