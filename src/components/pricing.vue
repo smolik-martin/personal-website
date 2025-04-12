@@ -43,7 +43,7 @@
           
           <div class="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <img src="/Users/martinsmolik/CascadeProjects/personal-website/images/_MS_7518.jpg" alt="Wedding album" class="w-full h-[450px] object-cover" />
+              <img src="/images/_MS_7518.jpg" alt="Wedding album" class="w-full h-[450px] object-cover" />
             </div>
             <div>
               <h3 class="text-2xl font-light text-gray-900 mb-6">Svatební fotoalba</h3>
